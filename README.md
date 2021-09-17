@@ -1,13 +1,13 @@
 # meal_app
-meal app with some renovated features
-# included a couple of categories with food recipes to support housewives at cooking stuff
-# included filter mode
+#meal app with some renovated features
+#included a couple of categories with food recipes to support housewives at cooking stuff
+#included filter mode
 
-#demo
+# demo
 
 https://user-images.githubusercontent.com/77192093/133830434-61517ec4-61ef-4a9f-9506-e01525bcd9fb.mp4
 
-#pictures
+# pictures
 ![Screenshot_2021-09-18-00-20-40-41](https://user-images.githubusercontent.com/77192093/133830626-628fac25-bace-42f3-a8cd-c6707b45f066.jpg)
 
 ![Screenshot_2021-09-18-00-22-18-35](https://user-images.githubusercontent.com/77192093/133830528-59817efc-981a-4a20-9710-0944e86db9e9.jpg)
