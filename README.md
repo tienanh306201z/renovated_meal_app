@@ -1,7 +1,7 @@
 # meal_app
-#meal app with some renovated features
-#included a couple of categories with food recipes to support housewives at cooking stuff
-#included filter mode
+meal app with some renovated features
+included a couple of categories with food recipes to support housewives at cooking stuff
+included filter mode
 
 # demo
 
