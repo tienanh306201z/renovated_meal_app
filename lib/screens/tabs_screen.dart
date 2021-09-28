@@ -103,18 +103,18 @@ class _MyBNBState extends State<MyBNB> {
                   color: _setColor(0),
                 ),
               )),
-          // TextButton.icon(
-          //     onPressed: () => widget._selectPage(1),
-          //     icon: Icon(
-          //       Icons.star,
-          //       color: _setColor(1),
-          //     ),
-          //     label: Text(
-          //       'Favorite',
-          //       style: TextStyle(
-          //         color: _setColor(1),
-          //       ),
-          //     ))
+          TextButton.icon(
+              onPressed: () => widget._selectPage(1),
+              icon: Icon(
+                Icons.star,
+                color: _setColor(1),
+              ),
+              label: Text(
+                'Favorite',
+                style: TextStyle(
+                  color: _setColor(1),
+                ),
+              ))
         ],
       ),
     );
