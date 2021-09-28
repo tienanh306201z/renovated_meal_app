@@ -80,8 +80,6 @@ class _MyBNBState extends State<MyBNB> {
 
   @override
   Widget build(BuildContext context) {
-    final _inActiveButtonColors = Colors.white;
-    final _activeButtonColors = Theme.of(context).colorScheme.secondary;
     return Container(
       decoration: BoxDecoration(
           color: Theme.of(context).colorScheme.primary,
