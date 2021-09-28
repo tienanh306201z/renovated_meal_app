@@ -103,7 +103,7 @@ class _MyBNBState extends State<MyBNB> {
                   color: _setColor(0),
                 ),
               )),
-          /*TextButton.icon(
+          TextButton.icon(
               onPressed: () => widget._selectPage(1),
               icon: Icon(
                 Icons.star,
@@ -114,7 +114,7 @@ class _MyBNBState extends State<MyBNB> {
                 style: TextStyle(
                   color: _setColor(1),
                 ),
-              ))*/
+              ))
         ],
       ),
     );
